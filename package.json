@@ -16,7 +16,6 @@
   "dependencies": {
     "firebase": "8.10.0",
     "rxfire": "^6.0.3",
-    "rxjs": "^7.5.7",
-    "spectre.css": "^0.5.9"
+    "rxjs": "^7.5.7"
   }
 }
